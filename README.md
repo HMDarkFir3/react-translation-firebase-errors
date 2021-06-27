@@ -3,6 +3,8 @@
 <p align="center" >
   <img alt="NPM package" src="https://img.shields.io/npm/v/react-translation-firebase-errors">
   
+  <img alt="GitHub last commit" src="https://img.shields.io/github/downloads/hmdarkfir3/react-translation-firebase-errors/total">
+  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors">
   
   <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/react-translation-firebase-errors">
