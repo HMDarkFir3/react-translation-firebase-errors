@@ -1,15 +1,15 @@
 <h1 align="center">react-translation-firebase-errors</h1>
 
 <p align="center" >
-  <img alt="NPM package version" src="https://img.shields.io/npm/v/react-translation-firebase-errors">
+  <img alt="NPM package version" src="https://img.shields.io/npm/v/react-translation-firebase-errors?style=for-the-badge">
   
-  <img alt="NPM package downloads" src="https://img.shields.io/npm/dt/react-translation-firebase-errors">
+  <img alt="NPM package downloads" src="https://img.shields.io/npm/dw/react-translation-firebase-errors?style=for-the-badge">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors?style=for-the-badge">
   
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/react-translation-firebase-errors">
+  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/react-translation-firebase-errors?style=for-the-badge">
   
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" />
 </p>
 
 ---
