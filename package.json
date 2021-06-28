@@ -13,9 +13,6 @@
   "bugs": {
     "url": "https://github.com/HMDarkFir3/react-translation-firebase-errors/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "homepage": "https://github.com/HMDarkFir3/react-translation-firebase-errors#readme",
   "devDependencies": {
     "react": "16.13.1",
