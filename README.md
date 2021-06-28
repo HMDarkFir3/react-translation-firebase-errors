@@ -1,7 +1,9 @@
 <h1 align="center">react-translation-firebase-errors</h1>
 
 <p align="center" >
-  <img alt="NPM package" src="https://img.shields.io/npm/v/react-translation-firebase-errors">
+  <img alt="NPM package version" src="https://img.shields.io/npm/v/react-translation-firebase-errors">
+  
+  <img alt="NPM package downloads" src="https://img.shields.io/npm/dt/react-translation-firebase-errors">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors">
   
