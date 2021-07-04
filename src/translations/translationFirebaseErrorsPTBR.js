@@ -1,4 +1,4 @@
-export function translationFirebaseErrors(error) {
+export function translationFirebaseErrorsPTBR(error) {
   switch (error) {
     case "auth/app-not-authorized":
       return "Este aplicativo, identificado pelo domínio onde está hospedado, não está autorizado a usar Firebase Authentication com a chave API fornecida.";
@@ -299,7 +299,7 @@ export function translationFirebaseErrors(error) {
 
     //60
 
-    default: 
+    default:
       return "Ocorreu um erro.";
 
     //61
