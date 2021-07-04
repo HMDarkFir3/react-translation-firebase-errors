@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/HMDarkFir3/react-translation-firebase-errors#readme",
   "devDependencies": {
-    "react": "16.13.1",
     "react-dom": "16.13.1"
   }
 }
