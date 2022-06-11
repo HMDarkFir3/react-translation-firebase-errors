@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/HMDarkFir3/react-translation-firebase-errors/issues"
   },
-  "homepage": "https://github.com/HMDarkFir3/react-translation-firebase-errors#readme"
+  "homepage": "https://github.com/HMDarkFir3/react-translation-firebase-errors#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
