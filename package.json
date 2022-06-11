@@ -11,15 +11,20 @@
   "keywords": [
     "react",
     "react-native",
-    "firebase"
+    "firebase",
+    "errors",
+    "translation"
   ],
-  "author": "Henrique Luís Oliveira Marques",
+  "author": "hmdarkfir3 (https://github.com/HMDarkFir3)",
   "license": "MIT",
   "private": false,
   "bugs": {
     "url": "https://github.com/HMDarkFir3/react-translation-firebase-errors/issues"
   },
   "homepage": "https://github.com/HMDarkFir3/react-translation-firebase-errors#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
     "typescript": "^4.3.5"
   }
